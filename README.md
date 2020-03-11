@@ -1,2 +1,0 @@
-# ETHPLANET
-ETHPLANET is a non-profit organization with a spirit of open source, sharing, and mutual growth. We are committed to serving the Ethereum ecosystem and its developers, communities, projects, and related platforms. We organize online and offline activities, including global conferences, forums, hackathons, etc., and are constantly exploring new ways to support and grow together with Ethereum.
